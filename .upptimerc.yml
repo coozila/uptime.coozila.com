@@ -4,12 +4,12 @@ repo: search-instances-uptime # The name of this repository
 sites:
   - name: search.coozila.com
     url: https://search.coozila.com
+  - name: uptime.coozila.com
+    url: https://uptime.coozila.com
   - name: www.coozila.com
     url: https://www.coozila.com
   - name: www.coozila.co.uk
     url: https://www.coozila.co.uk
-  - name: uptime.coozila.com
-    url: https://www.coozila.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
