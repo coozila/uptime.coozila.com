@@ -28,7 +28,7 @@ jobs:
       - name: Update the sites list on .upptimerc.yml
         run: |
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          yq '.sites = [{"name": "search.space", "url": "https://search.space"}]' -i .upptimerc.yml
+          yq '.sites = [{"name": "search.coozila.com", "url": "https://search.coozila.com"}]' -i .upptimerc.yml
           while read -r address
           do
               domain=$(echo "$address" | awk -F[/:] '{print $4}')
