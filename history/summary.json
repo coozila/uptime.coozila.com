@@ -1,9 +1,9 @@
 [
   {
-    "name": "searx.space",
-    "url": "https://searx.space",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.space.ico",
-    "slug": "searx-space",
+    "name": "search.space",
+    "url": "https://search.space",
+    "icon": "https://icons.duckduckgo.com/ip3/search.space.ico",
+    "slug": "search-space",
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
@@ -73,7 +73,7 @@
   },
   {
     "name": "darmarit.org",
-    "url": "https://darmarit.org/searx",
+    "url": "https://darmarit.org/search",
     "icon": "https://icons.duckduckgo.com/ip3/darmarit.org.ico",
     "slug": "darmarit-org",
     "status": "up",
@@ -1256,10 +1256,10 @@
     }
   },
   {
-    "name": "searx.ankha.ac",
-    "url": "https://searx.ankha.ac",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.ankha.ac.ico",
-    "slug": "searx-ankha-ac",
+    "name": "search.ankha.ac",
+    "url": "https://search.ankha.ac",
+    "icon": "https://icons.duckduckgo.com/ip3/search.ankha.ac.ico",
+    "slug": "search-ankha-ac",
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "98.51%",
@@ -1276,10 +1276,10 @@
     }
   },
   {
-    "name": "searx.baczek.me",
-    "url": "https://searx.baczek.me",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.baczek.me.ico",
-    "slug": "searx-baczek-me",
+    "name": "search.baczek.me",
+    "url": "https://search.baczek.me",
+    "icon": "https://icons.duckduckgo.com/ip3/search.baczek.me.ico",
+    "slug": "search-baczek-me",
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "98.30%",
@@ -1311,10 +1311,10 @@
     }
   },
   {
-    "name": "searx.be",
-    "url": "https://searx.be",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.be.ico",
-    "slug": "searx-be",
+    "name": "search.be",
+    "url": "https://search.be",
+    "icon": "https://icons.duckduckgo.com/ip3/search.be.ico",
+    "slug": "search-be",
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
@@ -1351,10 +1351,10 @@
     }
   },
   {
-    "name": "searx.catfluori.de",
-    "url": "https://searx.catfluori.de",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.catfluori.de.ico",
-    "slug": "searx-catfluori-de",
+    "name": "search.catfluori.de",
+    "url": "https://search.catfluori.de",
+    "icon": "https://icons.duckduckgo.com/ip3/search.catfluori.de.ico",
+    "slug": "search-catfluori-de",
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
@@ -1385,10 +1385,10 @@
     }
   },
   {
-    "name": "searx.cthd.icu",
-    "url": "https://searx.cthd.icu",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.cthd.icu.ico",
-    "slug": "searx-cthd-icu",
+    "name": "search.cthd.icu",
+    "url": "https://search.cthd.icu",
+    "icon": "https://icons.duckduckgo.com/ip3/search.cthd.icu.ico",
+    "slug": "search-cthd-icu",
     "status": "up",
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
@@ -1456,10 +1456,10 @@
     }
   },
   {
-    "name": "searx.daetalytica.io",
-    "url": "https://searx.daetalytica.io",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.daetalytica.io.ico",
-    "slug": "searx-daetalytica-io",
+    "name": "search.daetalytica.io",
+    "url": "https://search.daetalytica.io",
+    "icon": "https://icons.duckduckgo.com/ip3/search.daetalytica.io.ico",
+    "slug": "search-daetalytica-io",
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
@@ -1477,10 +1477,10 @@
     }
   },
   {
-    "name": "searx.fmhy.net",
-    "url": "https://searx.fmhy.net",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.fmhy.net.ico",
-    "slug": "searx-fmhy-net",
+    "name": "search.fmhy.net",
+    "url": "https://search.fmhy.net",
+    "icon": "https://icons.duckduckgo.com/ip3/search.fmhy.net.ico",
+    "slug": "search-fmhy-net",
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
@@ -1497,10 +1497,10 @@
     }
   },
   {
-    "name": "searx.headpat.exchange",
-    "url": "https://searx.headpat.exchange",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.headpat.exchange.ico",
-    "slug": "searx-headpat-exchange",
+    "name": "search.headpat.exchange",
+    "url": "https://search.headpat.exchange",
+    "icon": "https://icons.duckduckgo.com/ip3/search.headpat.exchange.ico",
+    "slug": "search-headpat-exchange",
     "status": "up",
     "uptime": "97.61%",
     "uptimeDay": "100.00%",
@@ -1535,10 +1535,10 @@
     }
   },
   {
-    "name": "searx.juancord.xyz",
-    "url": "https://searx.juancord.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.juancord.xyz.ico",
-    "slug": "searx-juancord-xyz",
+    "name": "search.juancord.xyz",
+    "url": "https://search.juancord.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/search.juancord.xyz.ico",
+    "slug": "search-juancord-xyz",
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
@@ -1563,10 +1563,10 @@
     }
   },
   {
-    "name": "searx.kutay.dev",
-    "url": "https://searx.kutay.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.kutay.dev.ico",
-    "slug": "searx-kutay-dev",
+    "name": "search.kutay.dev",
+    "url": "https://search.kutay.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/search.kutay.dev.ico",
+    "slug": "search-kutay-dev",
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
@@ -1589,10 +1589,10 @@
     }
   },
   {
-    "name": "searx.lunar.icu",
-    "url": "https://searx.lunar.icu",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
-    "slug": "searx-lunar-icu",
+    "name": "search.lunar.icu",
+    "url": "https://search.lunar.icu",
+    "icon": "https://icons.duckduckgo.com/ip3/search.lunar.icu.ico",
+    "slug": "search-lunar-icu",
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "99.13%",
@@ -1627,10 +1627,10 @@
     }
   },
   {
-    "name": "searx.namejeff.xyz",
-    "url": "https://searx.namejeff.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.namejeff.xyz.ico",
-    "slug": "searx-namejeff-xyz",
+    "name": "search.namejeff.xyz",
+    "url": "https://search.namejeff.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/search.namejeff.xyz.ico",
+    "slug": "search-namejeff-xyz",
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
@@ -1665,10 +1665,10 @@
     }
   },
   {
-    "name": "searx.nobulart.com",
-    "url": "https://searx.nobulart.com",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.nobulart.com.ico",
-    "slug": "searx-nobulart-com",
+    "name": "search.nobulart.com",
+    "url": "https://search.nobulart.com",
+    "icon": "https://icons.duckduckgo.com/ip3/search.nobulart.com.ico",
+    "slug": "search-nobulart-com",
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "96.82%",
@@ -1690,10 +1690,10 @@
     }
   },
   {
-    "name": "searx.oakleycord.dev",
-    "url": "https://searx.oakleycord.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.oakleycord.dev.ico",
-    "slug": "searx-oakleycord-dev",
+    "name": "search.oakleycord.dev",
+    "url": "https://search.oakleycord.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/search.oakleycord.dev.ico",
+    "slug": "search-oakleycord-dev",
     "status": "up",
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
@@ -1761,10 +1761,10 @@
     }
   },
   {
-    "name": "searx.ox2.fr",
-    "url": "https://searx.ox2.fr",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.ox2.fr.ico",
-    "slug": "searx-ox2-fr",
+    "name": "search.ox2.fr",
+    "url": "https://search.ox2.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/search.ox2.fr.ico",
+    "slug": "search-ox2-fr",
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
@@ -1786,10 +1786,10 @@
     }
   },
   {
-    "name": "searx.perennialte.ch",
-    "url": "https://searx.perennialte.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.perennialte.ch.ico",
-    "slug": "searx-perennialte-ch",
+    "name": "search.perennialte.ch",
+    "url": "https://search.perennialte.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/search.perennialte.ch.ico",
+    "slug": "search-perennialte-ch",
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
@@ -1821,10 +1821,10 @@
     }
   },
   {
-    "name": "searx.sev.monster",
-    "url": "https://searx.sev.monster",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.sev.monster.ico",
-    "slug": "searx-sev-monster",
+    "name": "search.sev.monster",
+    "url": "https://search.sev.monster",
+    "icon": "https://icons.duckduckgo.com/ip3/search.sev.monster.ico",
+    "slug": "search-sev-monster",
     "status": "up",
     "uptime": "97.89%",
     "uptimeDay": "41.23%",
@@ -1866,10 +1866,10 @@
     }
   },
   {
-    "name": "searx.si",
-    "url": "https://searx.si",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.si.ico",
-    "slug": "searx-si",
+    "name": "search.si",
+    "url": "https://search.si",
+    "icon": "https://icons.duckduckgo.com/ip3/search.si.ico",
+    "slug": "search-si",
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
@@ -1910,10 +1910,10 @@
     }
   },
   {
-    "name": "searx.techsaviours.org",
-    "url": "https://searx.techsaviours.org",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.techsaviours.org.ico",
-    "slug": "searx-techsaviours-org",
+    "name": "search.techsaviours.org",
+    "url": "https://search.techsaviours.org",
+    "icon": "https://icons.duckduckgo.com/ip3/search.techsaviours.org.ico",
+    "slug": "search-techsaviours-org",
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
@@ -1938,10 +1938,10 @@
     }
   },
   {
-    "name": "searx.tuxcloud.net",
-    "url": "https://searx.tuxcloud.net",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.tuxcloud.net.ico",
-    "slug": "searx-tuxcloud-net",
+    "name": "search.tuxcloud.net",
+    "url": "https://search.tuxcloud.net",
+    "icon": "https://icons.duckduckgo.com/ip3/search.tuxcloud.net.ico",
+    "slug": "search-tuxcloud-net",
     "status": "up",
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
@@ -1996,10 +1996,10 @@
     }
   },
   {
-    "name": "searx.work",
-    "url": "https://searx.work",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.work.ico",
-    "slug": "searx-work",
+    "name": "search.work",
+    "url": "https://search.work",
+    "icon": "https://icons.duckduckgo.com/ip3/search.work.ico",
+    "slug": "search-work",
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
@@ -2026,10 +2026,10 @@
     }
   },
   {
-    "name": "searx.zhenyapav.com",
-    "url": "https://searx.zhenyapav.com",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.zhenyapav.com.ico",
-    "slug": "searx-zhenyapav-com",
+    "name": "search.zhenyapav.com",
+    "url": "https://search.zhenyapav.com",
+    "icon": "https://icons.duckduckgo.com/ip3/search.zhenyapav.com.ico",
+    "slug": "search-zhenyapav-com",
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
@@ -2058,10 +2058,10 @@
     }
   },
   {
-    "name": "searxng.ch",
-    "url": "https://searxng.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/searxng.ch.ico",
-    "slug": "searxng-ch",
+    "name": "coozila.ch",
+    "url": "https://coozila.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/coozila.ch.ico",
+    "slug": "coozila-ch",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -2076,10 +2076,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "searxng.site",
-    "url": "https://searxng.site",
-    "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
-    "slug": "searxng-site",
+    "name": "coozila.site",
+    "url": "https://coozila.site",
+    "icon": "https://icons.duckduckgo.com/ip3/coozila.site.ico",
+    "slug": "coozila-site",
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
@@ -2202,7 +2202,7 @@
   },
   {
     "name": "www.jabber-germany.de",
-    "url": "https://www.jabber-germany.de/searx",
+    "url": "https://www.jabber-germany.de/search",
     "icon": "https://icons.duckduckgo.com/ip3/www.jabber-germany.de.ico",
     "slug": "www-jabber-germany-de",
     "status": "up",
@@ -2280,10 +2280,10 @@
     }
   },
   {
-    "name": "searx.neocities.org",
-    "url": "https://searx.neocities.org",
-    "icon": "https://icons.duckduckgo.com/ip3/searx.neocities.org.ico",
-    "slug": "searx-neocities-org",
+    "name": "search.neocities.org",
+    "url": "https://search.neocities.org",
+    "icon": "https://icons.duckduckgo.com/ip3/search.neocities.org.ico",
+    "slug": "search-neocities-org",
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
